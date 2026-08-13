@@ -46,9 +46,7 @@ I'm a researcher at the **Bio-Optics Lab, UNIST (South Korea)**, working at the 
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=HalaKhan00&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HalaKhan00&layout=compact&theme=default&hide_border=true&langs_count=6" />
+![Hala's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HalaKhan00&show_icons=true&hide_border=true&theme=default)
 
 </div>
 
