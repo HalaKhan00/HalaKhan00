@@ -4,8 +4,11 @@
 
 **Computational Biologist · Deep Learning for Microscopy · UNIST Bio-Optics Lab**
 
+
 [![Email](https://img.shields.io/badge/Email-halaalikhan%40unist.ac.kr-D14836?style=flat&logo=gmail&logoColor=white)](mailto:halaalikhan@unist.ac.kr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hala%20Ali%20Khan-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hala-ali-khan/)
 [![GitHub](https://img.shields.io/badge/GitHub-HalaKhan00-181717?style=flat&logo=github&logoColor=white)](https://github.com/HalaKhan00)
+
 
 </div>
 
@@ -37,16 +40,6 @@ I'm a researcher at the **Bio-Optics Lab, UNIST (South Korea)**, working at the 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Hala's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HalaKhan00&show_icons=true&hide_border=true&theme=default)
 
 </div>
 
