@@ -2,7 +2,7 @@
 
 # Hala Ali Khan
 
-**Computational Biologist · Deep Learning for Microscopy · UNIST Bio-Optics Lab**
+**Computational Biologist · Deep Learning for Healthcare · UNIST Bio-Optics Lab**
 
 
 [![Email](https://img.shields.io/badge/Email-halaalikhan%40unist.ac.kr-D14836?style=flat&logo=gmail&logoColor=white)](mailto:halaalikhan@unist.ac.kr)
