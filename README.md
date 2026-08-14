@@ -16,7 +16,7 @@
 
 ## About Me
 
-I'm a researcher at the **[Bio-Optics Lab, UNIST](https://www.biooptics.org/)** (South Korea), working at the intersection of deep learning and fluorescence microscopy. My thesis focuses on building a multi-expert deep learning framework that unmixes organelle-specific fluorescence signals from blended multi-organelle images — using cross-attention-fused expert networks to model inter-organelle spatial dependencies for high-fidelity *in-silico* labelling.
+I'm a researcher at the **[Bio-Optics Lab, UNIST](https://www.biooptics.org/)** (South Korea), working at the intersection of deep learning and fluorescence microscopy. My thesis focuses on building a multi-expert deep learning framework that unmixes organelle-specific fluorescence signals from blended multi-organelle images, using cross-attention-fused expert networks to model inter-organelle spatial dependencies for high-fidelity *in-silico* labelling.
 
 
 ---
